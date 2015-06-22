@@ -1,0 +1,2 @@
+defmodule Etoggl do
+end
