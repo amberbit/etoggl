@@ -27,6 +27,6 @@ defmodule Etoggl.Mixfile do
   #
   # Type `mix help deps` for more examples and options
   defp deps do
-    []
+    [httpoison: "0.7.0", jsx: "2.6.2"]
   end
 end
